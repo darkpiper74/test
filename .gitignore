@@ -3,3 +3,8 @@
 ################################################################################
 
 /.cr/personal/FavoritesList
+/.vs/ConsoleApp8/FileContentIndex/2f219a90-59bb-465d-8e52-35e181ec3f96.vsidx
+/.vs/ConsoleApp8/FileContentIndex
+*.suo
+/bin/Debug
+/obj/Debug
